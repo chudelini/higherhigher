@@ -20,4 +20,4 @@ EndPoints:
     }
 ```
 - "/admin" returns login page to AdminPage
-- "/api/add-mark/" returns form to be filled by enduser (grading) and data sent to DB
+- "/api/add-mark/" returns form to be filled by enduser (grading). Data provided by user will be sent to DB
