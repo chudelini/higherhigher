@@ -1,6 +1,6 @@
 # higherhigher
 
-Code represents simplification of recruitment platform.
+Code represents the simplification of recruitment platform.
 Admin can provide Candidates/Recruiters/Tasks/Grades to the Admin Platform, while end user can add a mark only.
 
 Application is deployed into Heroku: https://higherhigher.herokuapp.com
